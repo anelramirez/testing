@@ -1,1 +1,1 @@
-alert('Not implemented yet');
+alert('Versión 1.0');
